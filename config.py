@@ -1,0 +1,11 @@
+# Demo configuration placeholders
+
+SOLANA_RPC = "https://api.mainnet-beta.solana.com"
+NETWORK = "mainnet-demo"
+
+TELEGRAM_BOT_TOKEN = "REPLACE_WITH_TOKEN"
+TELEGRAM_CHAT_ID = "REPLACE_WITH_CHAT_ID"
+
+DEFAULT_SYMBOL = "SOL/USDC"
+DEFAULT_POSITION_SIZE = 0.01
+MAX_OPEN_POSITIONS = 3
